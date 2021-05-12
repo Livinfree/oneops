@@ -64,7 +64,7 @@
     <mybatis-spring.version>1.2.4</mybatis-spring.version>
     <mybatis.version>3.2.5</mybatis.version>
     <neethi.version>2.0.4</neethi.version>
-    <org.springframework.security.version>3.2.8.RELEASE</org.springframework.security.version>
+    <org.springframework.security.version>5.2.10.RELEASE</org.springframework.security.version>
     <postgresql.version>9.3-1104-jdbc4</postgresql.version>
     <retrofit.version>2.1.0</retrofit.version>
     <okhttp.version>3.9.0</okhttp.version>
