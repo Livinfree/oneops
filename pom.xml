@@ -50,7 +50,7 @@
     <jackson-mapper-asl.version>1.8.11</jackson-mapper-asl.version>
     <jee.javax-servlet-api.version>2.5</jee.javax-servlet-api.version>
     <jettison.version>1.2</jettison.version>
-    <jsch.version>0.1.49</jsch.version>
+    <jsch.version>0.1.54</jsch.version>
     <jstl-impl.version>1.2</jstl-impl.version>
     <jstl.version>1.2</jstl.version>
     <junit.version>4.11</junit.version>
