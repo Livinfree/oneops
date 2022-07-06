@@ -21,7 +21,7 @@
 
     <skip.unit.tests>false</skip.unit.tests>
     <XmlSchema.version>1.4.7</XmlSchema.version>
-    <activemq.version>5.11.1</activemq.version>
+    <activemq.version>5.15.9</activemq.version>
     <antlr-runtime.version>3.2</antlr-runtime.version>
     <apache.maven-shade-plugin.version>2.3</apache.maven-shade-plugin.version>
     <awaitility.version>1.7.0</awaitility.version>
