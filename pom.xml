@@ -49,7 +49,7 @@
     <jackson-databind.version>2.3.2</jackson-databind.version>
     <jackson-mapper-asl.version>1.8.11</jackson-mapper-asl.version>
     <jee.javax-servlet-api.version>2.5</jee.javax-servlet-api.version>
-    <jettison.version>1.2</jettison.version>
+    <jettison.version>1.5.1</jettison.version>
     <jsch.version>0.1.49</jsch.version>
     <jstl-impl.version>1.2</jstl-impl.version>
     <jstl.version>1.2</jstl.version>
