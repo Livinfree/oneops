@@ -13,7 +13,7 @@
   <description>flow: controller - JMS - Inductor - (ssh) chef-solo</description>
 
   <properties>
-    <snakeyaml.version>1.19</snakeyaml.version>
+    <snakeyaml.version>1.32</snakeyaml.version>
   </properties>
 
   <dependencies>
